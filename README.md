@@ -30,7 +30,7 @@ O objetivo é construir uma plataforma de compras online funcional e simples de 
 
 ## Tecnologias
 
-_A definir conforme o avanço do planejamento._
+Back-end, Front-end, banco de dados SQL, JS, CSS, PHP....
 
 ## Como rodar o projeto
 
@@ -38,4 +38,4 @@ _Em breve, assim que a stack for definida._
 
 ## Licença
 
-_A definir._
+MIT License
